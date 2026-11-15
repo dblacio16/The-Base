@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+user_data/*.json
+
+# Do not redistribute a potentially licensed soundtrack automatically.
+assets/music/Surface_Tension.mp3

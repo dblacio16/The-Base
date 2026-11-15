@@ -1,0 +1,4 @@
+# Independent Lunar Outpost V3 dependencies. V1 and V2 requirements stay untouched.
+pygame>=2.5,<3
+requests>=2.28,<3
+opencv-python>=4.8,<5
